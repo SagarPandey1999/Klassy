@@ -1,4 +1,5 @@
 {
+    "homepage":"https://sagarpandey1999.github.io/Klassy/",
     "private": true,
     "scripts": {
         "dev": "npm run development",
